@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SibasisRath
-- 👀 I’m interested in Java backend 
-- 🌱 I’m currently learning full stack 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Game Development 
+- 🌱 I’m currently learning Unity Development
+- 💞️ I’m looking to collaborate on small scale Game projects...
 - 📫 How to reach me sibasisrath2000@gmail.com
 
 <!---
